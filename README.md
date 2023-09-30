@@ -1,5 +1,8 @@
-Initial release
+#Initial release
 
-TODO:
+My attempt to automatically install desired programs after a fresh Windows install via the PowerShell prompt.
+*I don't have any use for this anymore. So please don't mind it*
 
-Add Windows version checking for cracking
+##TODO:
+
+- [ ] Add Windows version checking for cracking
